@@ -100,7 +100,7 @@ export const DATA = {
     {
       title: "To-Do App",
       href: "https://to-do-app-blush-nine.vercel.app/",
-      dates: "3 May 2025 - 10 May 2025",
+      dates: "3 March 2025 - 10 March 2025",
       active: true,
       description:
         "Designed a fun productivity tool: Navigate daily tasks with previous/next flow and clean task control — built with real use in mind.",
@@ -133,7 +133,7 @@ export const DATA = {
     {
       title: "Admin Dashboard",
       href: "https://admin-dashboard-ui-weld.vercel.app/dashboard",
-      dates: "13 April 2025 - 20 April 2025",
+      dates: "13 March 2025 - 20 March 2025",
       active: true,
       description:
         "Built a clean and focused admin dashboard: Track users, revenue, and orders with mocked data — designed for fast insights and simple extendability.",
@@ -166,7 +166,7 @@ export const DATA = {
     {
       title: "Quiz App",
       href: "https://quiz-app-three-tawny.vercel.app/",
-      dates: "22 April 2025 - 1 May 2025",
+      dates: "22 March 2025 - 1 April 2025",
       active: true,
       description:
         "A playful quiz app with 3 smart categories: Knowledge, Entertainment, and Psychology. Choose a topic, test your mind, and discover something new — all in one smooth interface.",
@@ -224,6 +224,24 @@ export const DATA = {
   ],
   reviews: [
     {
+      name: "Ovidiu Popescu",
+      role: "Project Manager",
+      review:
+          "It was truly a pleasure working together. You played a key role in the project’s front-end, and your professionalism showed at every stage. You delivered clean, well-structured code and consistently came up with fast, effective solutions tailored to the team’s needs. On top of that, communication with you was excellent — clear, timely, and collaboration-focused. Thank you for the great work — I genuinely hope we get to work together again!",
+      project: "PEEAC",
+      image: "",
+      linkedIn: "",
+    },
+    {
+      name: "Gabriel Craiu",
+      role: "Backend Developer",
+      review:
+          "Thank you for this successful collaboration. You showed efficiency, energy, initiative, flexibility, clear communication, and reliability. You were a key part of the project when it came to the user interface. Wishing you all the best moving forward — maybe we’ll work together again someday!",
+      project: "PEEAC",
+      image: "/gabriel-craiu.jpg",
+      linkedIn: "",
+    },
+    {
       name: "Iustin Tanase",
       role: "DB Engineer",
       review:
@@ -233,30 +251,12 @@ export const DATA = {
       linkedIn: "https://www.linkedin.com/in/iustin-tanase-85bba43/",
     },
     {
-      name: "Ovidiu Popescu",
-      role: "Project Manager",
-      review:
-        "It was truly a pleasure working together. You played a key role in the project’s front-end, and your professionalism showed at every stage. You delivered clean, well-structured code and consistently came up with fast, effective solutions tailored to the team’s needs. On top of that, communication with you was excellent — clear, timely, and collaboration-focused. Thank you for the great work — I genuinely hope we get to work together again!",
-      project: "PEEAC",
-      image: "",
-      linkedIn: "",
-    },
-    {
       name: "Claudiu Gaspar",
       role: "Tester",
       review:
         "It was nice working with you. Your professionalism, attention to detail, and clear communication contributed significantly to the smooth progress of everything. The collaboration was efficient throughout. I’d be happy to work together again in the future.",
       project: "PEEAC",
       image: "",
-      linkedIn: "",
-    },
-    {
-      name: "Gabriel Craiu",
-      role: "Backend Developer",
-      review:
-        "Thank you for this successful collaboration. You showed efficiency, energy, initiative, flexibility, clear communication, and reliability. You were a key part of the project when it came to the user interface. Wishing you all the best moving forward — maybe we’ll work together again someday!",
-      project: "PEEAC",
-      image: "/gabriel-craiu.jpg",
       linkedIn: "",
     },
     {
@@ -278,15 +278,6 @@ export const DATA = {
       linkedIn: "https://www.linkedin.com/in/dacian-rusu/",
     },
     {
-      name: "Victoria Gatcan",
-      role: "UI/UX Designer",
-      review:
-        "Working with Cleopatra was smooth from day one. She respected the design down to the smallest detail, but also knew when to suggest improvements that actually made sense. What I appreciated most was that I didn’t have to double-check everything — I trusted that what I saw in Figma would come to life exactly (or better) in the final product. She was easy to talk to, fast, and open to feedback without ego. That kind of collaboration is rare, and I’d gladly work with her again anytime.",
-      project: "Latercut",
-      image: "/victoria-gatcan.jpg",
-      linkedIn: "https://www.linkedin.com/in/victoria-gatcan/",
-    },
-    {
       name: "Ina Ropot",
       role: "Tester",
       review:
@@ -305,6 +296,15 @@ export const DATA = {
       linkedIn: "https://www.linkedin.com/in/dacian-rusu/",
     },
     {
+      name: "Vasile Ropot",
+      role: "Fullstack Developer",
+      review:
+          "You were just starting out, but your curiosity and willingness to figure things out really stood out. You didn’t know everything (which was expected), but you asked smart questions and followed through. You weren’t afraid to take ownership of tasks, even if they were outside your comfort zone. That mindset is more valuable than memorizing syntax.",
+      project: "Codtal",
+      image: "/vasile-ropot.jpg",
+      linkedIn: "https://www.linkedin.com/in/ropotvs/",
+    },
+    {
       name: "Victoria Gatcan",
       role: "UI/UX Designer",
       review:
@@ -312,15 +312,6 @@ export const DATA = {
       project: "Codtal",
       image: "/victoria-gatcan.jpg",
       linkedIn: "https://www.linkedin.com/in/victoria-gatcan/",
-    },
-    {
-      name: "Vasile Ropot",
-      role: "Fullstack Developer",
-      review:
-        "You were just starting out, but your curiosity and willingness to figure things out really stood out. You didn’t know everything (which was expected), but you asked smart questions and followed through. You weren’t afraid to take ownership of tasks, even if they were outside your comfort zone. That mindset is more valuable than memorizing syntax.",
-      project: "Codtal",
-      image: "/vasile-ropot.jpg",
-      linkedIn: "https://www.linkedin.com/in/ropotvs/",
     },
   ],
 } as const;

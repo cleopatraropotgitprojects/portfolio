@@ -60,8 +60,8 @@ export const DATA = {
 
   work: [
     {
-      company: "PEEAC",
-      href: "https://tichete.anofm.ro/",
+      company: "Romanian Government Platform",
+      href: "",
       badges: [],
       location: "Remote",
       title: "Frontend Developer",
@@ -228,7 +228,7 @@ export const DATA = {
       role: "Project Manager",
       review:
           "It was truly a pleasure working together. You played a key role in the project’s front-end, and your professionalism showed at every stage. You delivered clean, well-structured code and consistently came up with fast, effective solutions tailored to the team’s needs. On top of that, communication with you was excellent — clear, timely, and collaboration-focused. Thank you for the great work — I genuinely hope we get to work together again!",
-      project: "PEEAC",
+      project: "the Romanian Government Platform",
       image: "",
       linkedIn: "",
     },
@@ -237,8 +237,8 @@ export const DATA = {
       role: "Backend Developer",
       review:
           "Thank you for this successful collaboration. You showed efficiency, energy, initiative, flexibility, clear communication, and reliability. You were a key part of the project when it came to the user interface. Wishing you all the best moving forward — maybe we’ll work together again someday!",
-      project: "PEEAC",
-      image: "/gabriel-craiu.jpg",
+      project: "the Romanian Government Platform",
+      image: "",
       linkedIn: "",
     },
     {
@@ -246,7 +246,7 @@ export const DATA = {
       role: "DB Engineer",
       review:
         "I’ve said it more than once: this was a great collaboration. I truly appreciated your openness to understanding the project’s needs, your persistence in getting tasks done, and your genuine effort to grasp the business logic behind it all. The calm, thoughtful way you worked with others — always in the interest of the project — really stood out. Congratulations, and I’d love to work together again in the future!",
-      project: "PEEAC",
+      project: "the Romanian Government Platform",
       image: "",
       linkedIn: "https://www.linkedin.com/in/iustin-tanase-85bba43/",
     },
@@ -255,7 +255,7 @@ export const DATA = {
       role: "Tester",
       review:
         "It was nice working with you. Your professionalism, attention to detail, and clear communication contributed significantly to the smooth progress of everything. The collaboration was efficient throughout. I’d be happy to work together again in the future.",
-      project: "PEEAC",
+      project: "the Romanian Government Platform",
       image: "",
       linkedIn: "",
     },

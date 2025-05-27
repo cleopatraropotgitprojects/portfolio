@@ -281,7 +281,7 @@ export const DATA = {
       name: "Ina Ropot",
       role: "Tester",
       review:
-        "She was still getting used to the flow, but I could see that she took feedback seriously. Even when there were bugs, Cleopatra fixed them fast and made sure they didn’t come back. She communicated clearly and didn’t get defensive — that made collaboration easier. I appreciated that she wanted things to work right, not just “to be done”.",
+        "I had the pleasure of working with Cleopatra, she was always reliable, collaborative, and proactive. She fixed bugs fast and made sure they didn’t return. Her clear communication and non-defensive attitude made collaboration easy. I appreciated that she cared about doing things right, not just getting them done.",
       project: "Codtal",
       image: "/ina-ropot.jpg",
       linkedIn: "https://www.linkedin.com/in/ina-stratulat/",

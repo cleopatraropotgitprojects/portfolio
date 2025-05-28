@@ -49,7 +49,7 @@ export const DATA = {
 
         navbar: true,
       },
-      email: {
+      Gmail: {
         name: "Send Email",
         url: "https://mail.google.com/mail/?view=cm&fs=1&to=cleopatraropot@gmail.com&su=Hello%20Cleopatra&body=Hi%20Cleopatra,%0D%0A%0D%0AI%20wanted%20to%20get%20in%20touch...",
         icon: Icons.email,

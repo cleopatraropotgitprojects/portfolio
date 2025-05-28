@@ -10,9 +10,10 @@ export const DATA = {
   description:
     "Frontend developer passionate about building beautiful, useful interfaces. I love clean code, smart design, and working with kind people.",
   summary:
-    "In 2021, I realized I was deeply drawn to frontend development — not just as a skill, but as a way to build things that feel right. What started as curiosity turned into full commitment. Since then, I’ve [built real-world web apps](/#projects) using **React**, **Next.js**, and **Tailwind**, contributed to internal tools and admin dashboards, and [worked closely with designers, backend devs, and PMs to ship features](/#collaborations). I care about clean code, smart design systems, and **writing interfaces that are both beautiful and functional**. I bring **speed**, **clarity**, and a strong sense of ownership into every project. Currently, I’m focused on developing scalable interfaces and [growing with teams that value good architecture and great energy](/#contact).",
+    "In 2021, I realized I was deeply drawn to frontend development — not just as a skill, but as a way to build things that feel right. What started as curiosity turned into full commitment. Since then, I’ve [built real-world web apps](/#projects) using **AngularJS**, **React**, **Next.js**, and **Tailwind**, contributed to internal tools and admin dashboards, and [worked closely with designers, backend devs, and PMs to ship features](/#collaborations). I care about clean code, smart design systems, and **writing interfaces that are both beautiful and functional**. I bring **speed**, **clarity**, and a strong sense of ownership into every project. Currently, I’m focused on developing scalable interfaces and [growing with teams that value good architecture and great energy](/#contact).",
   avatarUrl: "/me.png",
   skills: [
+    "AngularJS",
     "React",
     "Next.js",
     "Typescript",
@@ -69,7 +70,7 @@ export const DATA = {
       start: "October 2024",
       end: "May 2025",
       description:
-        "I worked on both the Front Office (public-facing) and Back Office (internal) platforms for managing social support tickets. Although the project was officially in maintenance, I implemented numerous new features, refined UI components, and handled complex REST API integrations. Using Next.js, React, and Tailwind CSS, I built responsive layouts, improved accessibility, and contributed to architecture decisions to keep the system clean and scalable.",
+        "I worked on both the Front Office (public-facing) and Back Office (internal) platforms for managing social support tickets. Although the project was officially in maintenance, I implemented numerous new features, refined UI components, and handled complex REST API integrations. Using Next.js, and Tailwind CSS, I built responsive layouts, improved accessibility, and contributed to architecture decisions to keep the system clean and scalable.",
     },
     {
       company: "Latercut",
@@ -81,7 +82,7 @@ export const DATA = {
       start: "August 2023",
       end: "Present (on-call basis)",
       description:
-        "I built the core UI for an AI-based video editing tool using Next.js, React, and Tailwind CSS. My work included translating Figma designs into reusable components, adding animations, and handling dynamic layout behavior. I optimized performance for visual rendering and collaborated closely with designers and backend devs to ensure a smooth, responsive user experience aligned with AI processing flows.",
+        "I built the core UI for an AI-based video editing tool using AngularJS and Tailwind CSS. My work included translating Figma designs into reusable components, adding animations, and handling dynamic layout behavior. I optimized performance for visual rendering and collaborated closely with designers and backend devs to ensure a smooth, responsive user experience aligned with AI processing flows.",
     },
     {
       company: "Codtal",
